@@ -1,2 +1,2 @@
 # piratemedianetwork
-Pirate Media Network Radio
+Pirate Media Network Turkish Online Radio Services
